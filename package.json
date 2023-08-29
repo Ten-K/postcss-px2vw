@@ -1,0 +1,27 @@
+{
+  "name": "@tenk/postcss-px2vw",
+  "version": "0.0.1",
+  "description": "postcss px2vw",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "require": "./dist/index.js",
+      "import": "./dist/index.mjs"
+    }
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "files": [
+    "dist"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "postcss": "^8.4.28",
+    "tsup": "^7.2.0",
+    "typescript": "^5.2.2"
+  }
+}
