@@ -1,6 +1,6 @@
 {
   "name": "@ten-k/postcss-px2vw",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "postcss px2vw",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
