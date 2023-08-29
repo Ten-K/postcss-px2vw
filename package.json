@@ -1,10 +1,13 @@
 {
-  "name": "@tenk/postcss-px2vw",
+  "name": "@ten-k/postcss-px2vw",
   "version": "0.0.1",
   "description": "postcss px2vw",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
   "exports": {
     ".": {
       "require": "./dist/index.js",

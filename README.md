@@ -5,7 +5,7 @@
 ## 安装
 
 ```bash
-npm i @tenk/postcss-px2vw -D
+npm i @ten-k/postcss-px2vw -D
 ```
 
 ## 使用
@@ -13,7 +13,7 @@ npm i @tenk/postcss-px2vw -D
 ```js
 import { defineConfig } from "vite";
 import vue from "@vitejs/plugin-vue";
-import { PostcssPx2Vw } from "@tenk/postcss-px2vw";
+import { PostcssPx2Vw } from "@ten-k/postcss-px2vw";
 
 // https://vitejs.dev/config/
 export default defineConfig({
