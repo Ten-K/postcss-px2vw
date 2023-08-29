@@ -17,6 +17,11 @@
   "files": [
     "dist"
   ],
+  "homepage": "https://github.com/Ten-K/postcss-px2vw/tree/main/#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ten-K/postcss-px2vw"
+  },
   "author": "",
   "license": "MIT",
   "devDependencies": {
